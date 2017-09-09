@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CleanCity</string>
+    <string name="Company">Paradox</string>
+    <string name="Get_started">Get Started</string>
+    <string name="collector">Collector</string>
+    <string name="customer">Customer</string>
+    <string name="title_activity_customer__maps">Map</string>
+    <string name="title_activity_collector__maps">Map</string>
+</resources>
